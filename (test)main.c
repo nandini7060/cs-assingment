@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
-#include"mylib.h"
-#include"arraylib.h"
+#include"obj1-mylib.h"
+#include"obj2-arraylib.h"
 int main(){
 	
 		int choice,num;
@@ -57,4 +57,5 @@ int main(){
   
   
 	
+
 }
